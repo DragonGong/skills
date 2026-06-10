@@ -1,0 +1,4 @@
+interface:
+  display_name: "Software Design Patterns"
+  short_description: "Use design patterns to keep code modular."
+  default_prompt: "Use $software-design-patterns to decide whether this change needs refactoring and which design pattern family fits."
