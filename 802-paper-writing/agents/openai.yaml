@@ -1,0 +1,4 @@
+interface:
+  display_name: "802 Paper Writing"
+  short_description: "Write papers in 802 lab style"
+  default_prompt: "Use $802-paper-writing to draft or revise a paper section in the 802 lab style."
